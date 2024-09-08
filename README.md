@@ -1,12 +1,14 @@
-# tutorials
+## Note
 
-Sources for https://buanet.de/tutorials
+Most of the code snippets are no longer functional.
+
+Since the tutorials that originally used this codebase are no longer available and there are no plans to restore them, this repository will now be archived.
 
 ## License
 
 MIT License
 
-Copyright (c) 2017 [André Germann]
+Copyright (c) 2019-2024 André Germann
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
